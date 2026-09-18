@@ -2,7 +2,7 @@
 
 Welcome to my software development portfolio.
 
-This repository contains selected software projects I have designed, developed, tested, and iterated on using modern development tools and AI-assisted development workflows.
+This repository contains selected software projects I have designed, developed, tested, and iterated on using modern development tools and structured development workflows.
 
 My focus is on building practical digital products that solve real-world problems through thoughtful product design, structured problem-solving, and technology.
 
@@ -31,19 +31,17 @@ Can I Go? is the first product developed by **Belvarna Limited**, a technology c
 
 ## Development Approach
 
-My development work combines:
+My development process may include:
 
 - Product research
 - User experience and interface design
 - Requirements analysis
-- AI-assisted software development
+- Software development
 - Testing and debugging
 - Iterative product development
 - API and third-party service integration
 - Data and logic validation
 - Deployment and product testing
-
-I use AI-assisted development as a development tool while directing the product requirements, architecture, testing, validation, and user experience.
 
 ## Future Projects
 
